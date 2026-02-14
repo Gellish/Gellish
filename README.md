@@ -7,6 +7,15 @@
 I combine a decade of creative expertise with a modern engineering stack. I don't just design assets; I build the automated, scalable systems that power them. Currently based in Cebu City and open to global opportunities. ✅
 
 
+### 📫 Let's Connect!
+
+- **Portfolio:** [gellish.co](https://gellish.co/)
+- **Location:** Cebu City, Philippines 📍
+- **Inquiries:** [gellishgarnerp@gmail.com](mailto:gellishgarnerp@gmail.com)
+
+---
+
+
 ### 📂 Featured Technical Projects
 
 - **🟢 [gellish.co](https://gellish.co/)** — *Full-stack portfolio built with Svelte, showcasing high-end photo editing and web design.*
