@@ -1,6 +1,6 @@
 # Hi there, I'm Gellish Garner Mangubat👋 🇵🇭
 
-### 🚀 Creative Technologist & Full-Stack Developer
+### 🚀 Creative professional
 
 **7+ Years Multimedia Experience | Laravel & Adonis.js Specialist | FlutterFlow Expert**
 
